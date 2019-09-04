@@ -1,3 +1,5 @@
 ```html
-<p color=#3e3e3e >红色</p>
+<p>
+  <font color="#FF0000">我是红色字体</font> 
+</p>
 ```
